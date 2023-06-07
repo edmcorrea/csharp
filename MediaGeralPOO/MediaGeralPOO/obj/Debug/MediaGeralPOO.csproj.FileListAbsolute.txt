@@ -1,0 +1,7 @@
+C:\Curso\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe.config
+C:\Curso\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe
+C:\Curso\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.pdb
+C:\Curso\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csprojAssemblyReference.cache
+C:\Curso\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.CoreCompileInputs.cache
+C:\Curso\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.exe
+C:\Curso\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.pdb
