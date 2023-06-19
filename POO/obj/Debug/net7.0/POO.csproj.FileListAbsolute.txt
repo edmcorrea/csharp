@@ -1,0 +1,15 @@
+/home/edcorrea/projetos-pessoais/C#/POO/bin/Debug/net7.0/POO
+/home/edcorrea/projetos-pessoais/C#/POO/bin/Debug/net7.0/POO.deps.json
+/home/edcorrea/projetos-pessoais/C#/POO/bin/Debug/net7.0/POO.runtimeconfig.json
+/home/edcorrea/projetos-pessoais/C#/POO/bin/Debug/net7.0/POO.dll
+/home/edcorrea/projetos-pessoais/C#/POO/bin/Debug/net7.0/POO.pdb
+/home/edcorrea/projetos-pessoais/C#/POO/obj/Debug/net7.0/POO.csproj.AssemblyReference.cache
+/home/edcorrea/projetos-pessoais/C#/POO/obj/Debug/net7.0/POO.GeneratedMSBuildEditorConfig.editorconfig
+/home/edcorrea/projetos-pessoais/C#/POO/obj/Debug/net7.0/POO.AssemblyInfoInputs.cache
+/home/edcorrea/projetos-pessoais/C#/POO/obj/Debug/net7.0/POO.AssemblyInfo.cs
+/home/edcorrea/projetos-pessoais/C#/POO/obj/Debug/net7.0/POO.csproj.CoreCompileInputs.cache
+/home/edcorrea/projetos-pessoais/C#/POO/obj/Debug/net7.0/POO.dll
+/home/edcorrea/projetos-pessoais/C#/POO/obj/Debug/net7.0/refint/POO.dll
+/home/edcorrea/projetos-pessoais/C#/POO/obj/Debug/net7.0/POO.pdb
+/home/edcorrea/projetos-pessoais/C#/POO/obj/Debug/net7.0/POO.genruntimeconfig.cache
+/home/edcorrea/projetos-pessoais/C#/POO/obj/Debug/net7.0/ref/POO.dll
