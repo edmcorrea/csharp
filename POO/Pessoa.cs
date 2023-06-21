@@ -1,4 +1,4 @@
-namespace ClassesObjetos
+namespace POO
 {
   class Pessoa
 {
