@@ -52,6 +52,17 @@ namespace POO
 
       // conta(10, 5);
     #endregion
+
+    #region Propriedades
+      Propriety propp = new Propriety();
+      propp.Nome = "Afonso";
+      propp.Sobrenome = "Padilha";
+      propp.Idade = 15;
+
+      Console.WriteLine(propp.Nome + " " + propp.Sobrenome);
+      Console.WriteLine(propp.Idade);
+
+    #endregion
   }
 
 
