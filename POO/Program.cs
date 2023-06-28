@@ -54,14 +54,19 @@ namespace POO
     #endregion
 
     #region Propriedades
-      Propriety propp = new Propriety();
-      propp.Nome = "Afonso";
-      propp.Sobrenome = "Padilha";
-      propp.Idade = 15;
+      // Propriety propp = new Propriety();
+      // propp.Nome = "Afonso";
+      // propp.Sobrenome = "Padilha";
+      // propp.Idade = 15;
 
-      Console.WriteLine(propp.Nome + " " + propp.Sobrenome);
-      Console.WriteLine(propp.Idade);
+      // Console.WriteLine(propp.Nome + " " + propp.Sobrenome);
+      // Console.WriteLine(propp.Idade);
 
+    #endregion
+
+    #region Herança, Abstract, Override
+      Caminhao cn = new Caminhao();
+      cn.Acelerar();
     #endregion
   }
 
