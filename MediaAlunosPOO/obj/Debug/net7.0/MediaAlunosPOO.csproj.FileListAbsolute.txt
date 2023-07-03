@@ -1,0 +1,15 @@
+/home/edcorrea/projetos-pessoais/C#/MediaAlunosPOO/obj/Debug/net7.0/MediaAlunosPOO.csproj.AssemblyReference.cache
+/home/edcorrea/projetos-pessoais/C#/MediaAlunosPOO/obj/Debug/net7.0/MediaAlunosPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/edcorrea/projetos-pessoais/C#/MediaAlunosPOO/obj/Debug/net7.0/MediaAlunosPOO.AssemblyInfoInputs.cache
+/home/edcorrea/projetos-pessoais/C#/MediaAlunosPOO/obj/Debug/net7.0/MediaAlunosPOO.AssemblyInfo.cs
+/home/edcorrea/projetos-pessoais/C#/MediaAlunosPOO/obj/Debug/net7.0/MediaAlunosPOO.csproj.CoreCompileInputs.cache
+/home/edcorrea/projetos-pessoais/C#/MediaAlunosPOO/bin/Debug/net7.0/MediaAlunosPOO
+/home/edcorrea/projetos-pessoais/C#/MediaAlunosPOO/bin/Debug/net7.0/MediaAlunosPOO.deps.json
+/home/edcorrea/projetos-pessoais/C#/MediaAlunosPOO/bin/Debug/net7.0/MediaAlunosPOO.runtimeconfig.json
+/home/edcorrea/projetos-pessoais/C#/MediaAlunosPOO/bin/Debug/net7.0/MediaAlunosPOO.dll
+/home/edcorrea/projetos-pessoais/C#/MediaAlunosPOO/bin/Debug/net7.0/MediaAlunosPOO.pdb
+/home/edcorrea/projetos-pessoais/C#/MediaAlunosPOO/obj/Debug/net7.0/MediaAlunosPOO.dll
+/home/edcorrea/projetos-pessoais/C#/MediaAlunosPOO/obj/Debug/net7.0/refint/MediaAlunosPOO.dll
+/home/edcorrea/projetos-pessoais/C#/MediaAlunosPOO/obj/Debug/net7.0/MediaAlunosPOO.pdb
+/home/edcorrea/projetos-pessoais/C#/MediaAlunosPOO/obj/Debug/net7.0/MediaAlunosPOO.genruntimeconfig.cache
+/home/edcorrea/projetos-pessoais/C#/MediaAlunosPOO/obj/Debug/net7.0/ref/MediaAlunosPOO.dll
