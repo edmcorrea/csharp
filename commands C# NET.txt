@@ -1,0 +1,41 @@
+Criação de projeto: dotnet new console -n [nomeDoProjeto]
+
+# to .NET CORE 
+Rodar aplicação: dotnet run
+
+
+
+# to .NET FRAMEWORK in Ubuntu - Use Mono Basics (font: https://www.mono-project.com/docs/getting-started/mono-basics/)
+
+## to Single Console
+Compile single Console.WriteLine: csc [fileExecute].cs
+To Run the Project: mono [fileExecute].exe
+
+## to WinForms Framework
+Compile single Console.WriteLine: csc [fileExecute].cs -r:System.Windows.Forms.dll
+To Run the Project: mono [fileExecute].exe
+
+Example of Application:
+```
+using System;
+using System.Windows.Forms;
+
+public class HelloWorld : Form
+{
+    static public void Main ()
+    {
+        Application.Run (new HelloWorld ());
+    }
+
+    public HelloWorld ()
+    {
+        Text = "Hello Mono World";
+    }
+}
+```
+
+
+
+ 
+
+

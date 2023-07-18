@@ -1,2 +1,0 @@
-Criação de projeto: dotnet new console -n [nomeDoProjeto]
-Rodar aplicação: dotnet run
